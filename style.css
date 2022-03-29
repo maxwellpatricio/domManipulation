@@ -1,0 +1,36 @@
+.form{
+    display: flex;
+    margin:0 auto;
+    border: 1px solid black;
+    border-radius:5px;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 300px;
+    padding: 10px;
+    box-shadow: 6px 6px teal;
+}
+
+.div{
+    margin: 50px;
+}
+
+.lista{
+    display: flex;
+    margin:0 auto;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 300px;
+    padding: 10px;
+}
+
+.div-lista{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    align-content: center;
+    box-shadow: 6px 6px teal;
+}
